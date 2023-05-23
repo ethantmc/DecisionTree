@@ -17,3 +17,8 @@ these lists are in the same order as the corresponding rows in the matrixes for 
 The tuple following each attribute name is the domain for that attribute.
 
 The file deDomain.txt contains a nested dictionary that can be used to decode the values for the attributes.
+
+Sample output: 
+![Unpruned](https://raw.githubusercontent.com/ethantmc/DecisionTree/main/report/pictures%20in%20PDF/unprunedOutput.png)
+Pruned: 
+![Pruned](https://raw.githubusercontent.com/ethantmc/DecisionTree/main/report/pictures%20in%20PDF/prunedOutput.png)
