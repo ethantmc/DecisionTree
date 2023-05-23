@@ -1,4 +1,4 @@
-# DecisionTree
+# Decision Tree Classifier (Pruning/Non-Pruning)
 Academic decision tree program to classify data.
 
 Train.txt is a 6x140 matrix, where the rows are attributes and columns are customers. Rows 1 – 6
